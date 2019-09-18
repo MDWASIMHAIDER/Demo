@@ -8,6 +8,7 @@ public class PrintReverseArrayAfterFirtIteration {
 		ele=array.length-1;
 		for(int i=0;i<array.length;i++) {
 			//System.out.println("reverse");
+			System.out.println("git hub editor added");
 			temp[i]=array[ele];
 			ele--;
 		}
